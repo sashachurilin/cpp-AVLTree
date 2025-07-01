@@ -58,7 +58,6 @@ Building and Testing
 The implementation is header-only (AVLTree.h). Simply include it in your project. A sample test file (test.cpp) is provided that demonstrates basic functionality.
 
 To compile and run the test:
-text
 
 g++ test.cpp -o avl_test
 ./avl_test
